@@ -6,6 +6,8 @@ Aplicação web modular usando containers com configuração segura, desenvolvid
 
 Acesse a aplicação em um ec2 da aws: http://ec2-3-83-163-206.compute-1.amazonaws.com:80
 
+![alt text](image.png)
+
 Caso não esteja mais disponível no link acima, assista ao vídeo da aplicação funcionando em um ec2 da aws: https://drive.google.com/file/d/1hTiGV2ZwRFvhQvy8uiRqOIUBEwqhPnlv/view?usp=sharing
 
 
